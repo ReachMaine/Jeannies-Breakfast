@@ -76,29 +76,55 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<span class="big-caption">&nbsp;</span>
 		</div>
 		<div class="copy">
-<div style="background: #ffffff;">
-<script 
-    data-base_font_size="15px" 
-    data-item_background_color="#ffffff" 
-    data-item_desc_font_color="#000000" 
-    data-item_price_font_color="#cc0000" 
-    data-item_title_font_color="#cc0000" 
-    data-menu_desc_background_color="#ffffff" 
-    data-menu_desc_font_color="#000000" 
-    data-primary_background_color="#ffffff" 
-    data-primary_font_color="#000000" 
-    data-primary_font_family="Open Sans" 
-    data-section_desc_background_color="#ffffff" 
-    data-section_desc_font_color="#000000" 
-    data-section_title_background_color="#ffffff" 
-    data-section_title_font_color="#134f8b" 
-    data-stylesheet="https://fonts.googleapis.com/css2?family=Open+Sans" 
-    data-hide_cover_photo="true" 
-    data-hide_disclaimer="true" 
-    data-location="jeannies-breakfast-house" 
-    data-api_key="ke09z8icq4xu8uiiccighy1bw" 
-    id="singleplatform-menu" 
-    src="https://menus.singleplatform.com/widget"></script></div>
+			<h2>The Great Maine Breakfast Menu</h2>
+			<p>Below are samples from our "Bearylicious" menu.</p>
+			<div class="menu-container">
+
+				<div class="menu-item">
+					<!-- <img src="_media/menu4.jpg" alt=""> -->
+					<span class="title">Betty's Blueberry Pancakes</span>
+					<span class="desc">Delicious Buttermilk Pancakes bursting with native Maine Blueberries. <em>A Real Plate Full!</em></span>
+				</div>
+				<div class="menu-item">
+					<!-- <img src="_media/menu3.jpg" alt=""> -->
+					<span class="title">Apple Spice Pancakes</span>
+					<span class="desc">Delicious Vegan Oatmeal Pancakes topped with Walnuts and our own warm and Savory Applesauce.</span>
+				</div>
+
+				<div class="menu-item">
+					<!-- <img src="_media/menu2.jpg" alt=""> -->
+					<span class="title">Island Tofu Scramble</span>
+					<span class="desc">Spiced Tofu, Peppers and Onions, topped with our Homemade Salsa. Served with Golden Homefries and surrounded by Homemade Toast.</span>
+				</div>
+				<div class="menu-item">
+					<!-- <img src="_media/menu1.jpg" alt=""> -->
+					<span class="title">Gluten-Free Pancakes</span>
+					<span class="desc">As a restaurant serving homemade from scratch foods, flour in the air prevents a guarantee of a purely gluten free environment. However, we do everything within our control to avoid cross-contamination and are proud to provide gluten free options.</span>
+				</div>
+
+				<div class="menu-item">
+					<!-- <img src="_media/menu2.jpg" alt=""> -->
+					<span class="title">The Great Maine Breakfast</span>
+					<span class="desc">3 Eggs any style, Homemade Baked Beans, Grilled Ham, Homefries, Homemade Toast and 1 Buttermilk Pancake.</span>
+				</div>
+				<div class="menu-item">
+					<!-- <img src="_media/menu1.jpg" alt=""> -->
+					<span class="title">Pot Roast Delight</span>
+					<span class="desc">A delicious bed of Homefries topped with Savory Pot Roast, Provolone Cheese, 2 Fried Eggs and Homemade Toast.</span>
+				</div>
+
+				<div class="menu-item">
+					<!-- <img src="_media/menu2.jpg" alt=""> -->
+					<span class="title">New England Sausage and Biscuit</span>
+					<span class="desc">Savory Homemade Sausage Gravy and Homemade Biscuit served with 2 Fried Eggs and Golden Homefries.</span>
+				</div>
+				<div class="menu-item">
+					<!-- <img src="_media/menu1.jpg" alt=""> -->
+					<span class="title">Very Berry Pancakes</span>
+					<span class="desc">2 Large Buttermilk Pancakes with Berries, topped with Homemade Berry Sauce and Whipped Cream. Choice of Blueberry, Raspberry, Strawberry or Strawberry Rhubarb Sauce.</span>
+				</div>
+
+			</div>
 		</div>
 
 	</section>
